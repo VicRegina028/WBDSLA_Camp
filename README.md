@@ -1,5 +1,6 @@
-x### Repositório de teste do WBDS LA Camp
+### Repositório de teste do WBDS LA Camp
 
 **Autora**: Victória Regina
 
-lorem ipsum dolor sit amet consectetur adipiscing elit
+## Sobre o WBDS LA Camp
+O WBDS LA Camp é um curso de treinamento intensivo gratuito para estudantes de graduação e pós-graduação que têm interesse em aprender bioinformática e ciência de dados do zero.
